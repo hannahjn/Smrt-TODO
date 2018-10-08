@@ -1,4 +1,5 @@
-# Node Skeleton
+# ListO
+ListO is an auto-categorising smart to do list. Users enter a task, select a category, and using APIs, the task and corresponding info is added to the correct to do list.
 
 ## Project Setup
 
